@@ -56,7 +56,6 @@ For any questions or contributions, feel free to reach out or submit a pull requ
 
 **Author**: Taru Nigam  
 **Student Number**: C3509116  
-**Date**: [Insert Date]  
-**License**: [Insert License Information]  
+**Date**: 11/3/25  
 
 Thank you for trying out EcoTrack! Together, we can make a difference in reducing our carbon footprints.
